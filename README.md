@@ -1,4 +1,4 @@
 # NLP-Spam-filter-with-Deployment
 
-### Endpoint
+### Endpoint [POST]
 https://spam-detector-nlp.herokuapp.com/predict
